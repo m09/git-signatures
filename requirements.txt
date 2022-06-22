@@ -10,7 +10,7 @@ fastparquet==0.3.3
 humanfriendly==5.0        # via coloredlogs
 llvmlite==0.31.0          # via numba
 numba==0.48.0             # via fastparquet
-numpy==1.18.1             # via fastparquet, numba, pandas
+numpy==1.22.0             # via fastparquet, numba, pandas
 pandas==1.0.1             # via fastparquet
 pycparser==2.19           # via cffi
 pygit2==1.0.3
